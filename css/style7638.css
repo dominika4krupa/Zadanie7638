@@ -1,0 +1,29 @@
+body {
+    font-family: 'Verdana', sans-serif;
+    color: #fff;
+   
+}
+
+#header {position: relative;
+    background-image: url(../obrazy/man-1.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.header-inner {text-align: left;
+    position: absolute;
+    width: 100%;
+    top: 50%;
+    transform: translateY(-50%); 
+}
+h1 {font-size: 20px;
+}
+h2 {font-size: 40px;
+    margin-top: 5px;
+}
+
+h1, h2 {margin-left: 20px;}
+
+
+
+

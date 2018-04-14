@@ -1,0 +1,36 @@
+@media all and (max-width: 1170px) {
+        #header {background-image: url(../obrazy/man-2.jpg);      
+    }
+    .header-inner {text-align: right;
+        top: 30%;
+        transform: translateY(-30%);
+    }
+}
+
+@media all and (max-width: 992px) {
+    #header {background-image: url(../obrazy/man-1.jpg);
+        height: 50vh;
+    }
+    .header-inner {text-align: center;
+        top: 120%;
+        color: #000;
+        margin-top: 15px;
+        
+        
+      
+    }
+    
+    }
+        
+
+    
+
+
+
+/*<!--Wytyczne dla rozdzielczości:-->*/
+/*<!--- powyżej 1170px - tekst nagłówkowy wyrównany horyzontalnie do lewej i wertykalnie do środka - obrazek na pełną wysokość okna przeglądarki-->*/
+/*<!--- pomiędzy 992px a 1170px - tekst nagłówkowy wyrównany do prawego górnego rogu - obrazek na 70 procent wysokość okna przeglądarki-->*/
+/*<!--- poniżej 992px - tekst pod obrazkiem - obrazek na połowę wysokość okna przeglądarki-->*/
+
+
+
