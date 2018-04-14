@@ -1,9 +1,12 @@
 @media all and (max-width: 1170px) {
         #header {background-image: url(../obrazy/man-2.jpg);      
     }
-    .header-inner {text-align: right;
+    .header-inner {
+        text-align: right;
         top: 30%;
+        right: 1%;
         transform: translateY(-30%);
+        
     }
 }
 
